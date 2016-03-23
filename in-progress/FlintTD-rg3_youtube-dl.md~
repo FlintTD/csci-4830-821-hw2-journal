@@ -26,7 +26,7 @@ I spent a lot of this time combing through Google and Github for a project that 
 
 I considered solving (https://github.com/geodynamics/vq/issues/54), but their code was complicated and, moreover, wouldn't compile after several attempts.  I relinquished this dream after hitting the deadline and deciding this endeavor was moot, both above my head and inaccessible.
 
-I changed projects to (https://github.com/rg3/youtube-dl/issues/8395) after more searching.  This project looks reasonable and do-able.  This link is the bug's fix thread.
+I changed projects to (https://github.com/rg3/youtube-dl/issues/8395) after more searching.  This project looks reasonable and do-able.
 
 ## The Change
 
@@ -39,4 +39,4 @@ I wanted to solve their issue directly, sussing out the "Not a directory" error 
 *   2016-03-01: Gave up after attending class, decided to find something do-able.
 *   2016-03-03: Found and forked rg3/youtube-dl, began an attempt to solve a directory bug.
 *   2016-03-13: Fully analyzed error readout, traced the program branches on paper, formed a hypothesis as to why the bug was happening.
-*   2016-03-03: Officially filed a reply on the bug report thread.  Therein, asked for further developer and user assistance in assessing the bug and checking if the bug still occurs, to see if the thread needs to be closed or remain open.
+*   2016-03-03: Officially filed a reply on the bug report thread.  Therein, asked for further developer and user assistance in assessing the bug and checking if the bug still occurs, to see if the thread needs to be closed or remain open. 
